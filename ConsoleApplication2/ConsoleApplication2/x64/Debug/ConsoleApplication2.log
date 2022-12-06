@@ -1,0 +1,13 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,18): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(31,22): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(37,26): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(52,27): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(57,30): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(63,23): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(68,26): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(74,30): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(91,27): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(96,30): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\Amerike\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(103,23): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  ConsoleApplication2.vcxproj -> C:\Users\Amerike\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
